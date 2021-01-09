@@ -1,0 +1,8 @@
+<project outputDir="E:\Repos\OLE.Winform\Confused" baseDir="E:\Repos\OLE.Winform" xmlns="http://confuser.codeplex.com">
+  <packer id="compressor" />
+  <module path="OLE.Winform\bin\Debug\OLE.Winform.dll">
+    <rule pattern="true" inherit="false" />
+  </module>
+  <module path="Saps.ApiClient\bin\Debug\Saps.ApiClient.dll" />
+  <module path="metroframework-modern-ui\MetroFramework\bin\Debug\MetroFramework.dll" />
+</project>
